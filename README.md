@@ -1,5 +1,7 @@
 # Laravel "Multi-Target Inheritance" by Polymorphic Relationships Example
 
+> :warning: **This repository is not maintained anymore.** Laravel versions etc. are out of date and contain serious security issues.
+
 NOTE: The `Module` (`moduleable`) is called `Element` (`elementable`) in this example.
 
 Based on [this](https://stackoverflow.com/questions/59021442/multi-table-inheritance-in-laravel-eloquent/59146241#59146241) Stackoverflow thread (props to user [sss S](https://stackoverflow.com/users/11797973/sss-s) for pointing me in the right direction).
